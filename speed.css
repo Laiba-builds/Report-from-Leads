@@ -1,0 +1,1 @@
+.speed-controls{display:flex;align-items:center;gap:12px;padding:15px 0 0;color:#666;font-size:12px}.speed-controls select{font-size:12px;padding:8px 12px}.speed-controls span{font-size:11px;color:#888}.table-wrap td{border-right:1px solid #ededed}@media(max-width:850px){.speed-controls{flex-wrap:wrap}.speed-controls span{width:100%}}@media print{.speed-controls{display:none}}
